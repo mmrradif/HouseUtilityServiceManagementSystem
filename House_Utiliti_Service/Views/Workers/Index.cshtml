@@ -1,0 +1,42 @@
+﻿@model IEnumerable<House_Utiliti_Service.Models.Worker>
+@{
+    ViewBag.Title = "Index";
+}
+
+<div class="row">
+    <div class="col-8">
+        <h3>Workers</h3>
+        <div class="d-flex justify-content-end mb-1">
+            @Html.ActionLink("Add New", "Create", "Workers", new { }, new { @class = "btn btn-primary btn-sm" })
+        </div>
+        <table class="table table-bordered">
+            <thead class="bg-secondary">
+                <tr>
+
+                    <th>@Html.DisplayNameFor(x => x.WorkerName)</th>
+                    <th>@Html.DisplayNameFor(x => x.Phone)</th>
+                    <th>@Html.DisplayNameFor(x => x.Payrate)</th>
+                    <th>@Html.DisplayNameFor(x => x.IsRunning)</th>
+                    <th></th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var b in Model)
+                {
+                    <tr>
+                        <td>@Html.DisplayFor(x => b.WorkerName)</td>
+                        <td>@Html.DisplayFor(x => b.Phone)</td>
+                        <td>@Html.DisplayFor(x => b.Payrate)</td>
+                        <td>@Html.DisplayFor(x => b.IsRunning)</td>
+                        <td>
+                            @Html.ActionLink("Edit", "Edit", "Workers", new { id = b.WorkerId }, new { @class = "btn btn-secondary btn-sm" })
+                            <a href="@Url.Action("Delete", "Workers", new {id=b.WorkerId})" class="btn btn-danger btn-sm">Delete</a>
+                        </td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    </div>
+</div>
+
+

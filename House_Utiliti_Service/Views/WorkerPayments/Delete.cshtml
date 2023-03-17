@@ -1,0 +1,57 @@
+﻿@model House_Utiliti_Service.Models.WorkerPayment
+@{
+    ViewBag.Title = "Delete";
+}
+
+<div class="row">
+    <div class="col-12">
+        <h3>Are you sure to delete?</h3>
+
+        @Html.HiddenFor(x => x.PaymentId)
+        <div class="form-group row mb-1">
+            @Html.LabelFor(x => x.TotalWorkHour, new { @class = "col-form-label col-form-label-sm col-2" })
+            <div class="col-4">
+                @Html.DisplayFor(x => x.TotalWorkHour)
+
+            </div>
+        </div>
+        <div class="form-group row mb-1">
+            @Html.LabelFor(x => x.TotalPayment, new { @class = "col-form-label col-form-label-sm col-2" })
+            <div class="col-4">
+                @Html.DisplayFor(x => x.TotalPayment)
+
+            </div>
+        </div>
+        <div class="form-group row mb-1">
+            @Html.LabelFor(x => x.Worker, new { @class = "col-form-label col-form-label-sm col-2" })
+            <div class="col-4">
+                @Html.DisplayFor(x => x.Worker.WorkerName)
+
+            </div>
+        </div>
+        <div class="form-group row mb-1">
+            @Html.LabelFor(x => x.WorkerPictur, new { @class = "col-form-label col-form-label-sm col-2" })
+            <div class="col-4">
+                <img src="~/Uploads/@Model.WorkerPictur" class="img-thumbnail" style="width:50px" />
+
+            </div>
+
+        </div>
+
+        @using (Html.BeginForm("Delete", "WorkerPayments", new { id = Model.PaymentId }, FormMethod.Post))
+        {
+
+            <div class="col-4 offset-2">
+                <button type="submit" class="btn btn-danger">Confirm Delete</button>
+
+            </div>
+        }
+        <div class="col-12">
+
+            @Html.ActionLink("Back to list", "Index")
+        </div>
+    </div>
+</div>
+
+
+

@@ -1,0 +1,64 @@
+﻿@model House_Utiliti_Service.ViewModels.PaymentEditModel
+@{
+    ViewBag.Title = "Edit";
+}
+
+<div class="row">
+    <div class="col-12">
+        @using (Html.BeginForm("Edit", "WorkerPayments", FormMethod.Post, new { enctype = "multipart/form-data" }))
+        {
+            @Html.HiddenFor(x => x.PaymentId)
+            <div class="form-group row mb-1">
+                @Html.LabelFor(x => x.WorkerPictur, new { @class = "col-form-label col-form-label-sm col-2" })
+                <div class="col-4">
+                    @Html.TextBoxFor(x => x.WorkerPictur, new { @class = "form-control form-control-sm", type = "file" })
+                    @Html.ValidationMessageFor(x => x.WorkerPictur, "", new { @class = "text-danger" })
+                </div>
+            </div>
+            <div class="col-1">
+                <img src="~/Uploads/@ViewBag.CurrentPic" class="img-thumbnail" style="width:50px" />
+            </div>
+            <div class="form-group row mb-1">
+                @Html.LabelFor(x => x.WorkerId, new { @class = "col-form-label col-form-label-sm col-2" })
+                <div class="col-4">
+                    @Html.DropDownListFor(x => x.WorkerId, new SelectList(ViewBag.Workers, "WorkerId", "WorkerName"), "Select", new { @class = "form-select form-select-sm" })
+                    @Html.ValidationMessageFor(x => x.WorkerId, "", new { @class = "text-danger" })
+                </div>
+            </div>
+            <div class="form-group row mb-1">
+                @Html.LabelFor(x => x.TotalWorkHour, new { @class = "col-form-label col-form-label-sm col-2" })
+                <div class="col-4">
+                    @Html.TextBoxFor(x => x.TotalWorkHour, new { @class = "form-control form-control-sm" })
+                    @Html.ValidationMessageFor(x => x.TotalWorkHour, "", new { @class = "text-danger" })
+                </div>
+            </div>
+            <div class="form-group row mb-1">
+                @Html.LabelFor(x => x.TotalPayment, new { @class = "col-form-label col-form-label-sm col-2" })
+                <div class="col-4">
+                    @Html.TextBoxFor(x => x.TotalPayment, new { @class = "form-control form-control-sm" })
+                    @Html.ValidationMessageFor(x => x.TotalPayment, "", new { @class = "text-danger" })
+                </div>
+            </div>
+
+            <div class="form-group row mb-1">
+
+                <div class="col-4 offset-2">
+                    <button type="submit" class="btn btn-success">Save</button>
+                </div>
+            </div>
+        }
+    </div>
+<div class="col-12">
+
+    @Html.ActionLink("Back to list", "Index")
+</div>
+</div>
+@section scripts{
+    <script src="~/Scripts/jquery-3.6.0.js"></script>
+    <script src="~/Scripts/jquery.validate.js"></script>
+    <script src="~/Scripts/jquery.validate.unobtrusive.js"></script>
+
+
+
+}
+

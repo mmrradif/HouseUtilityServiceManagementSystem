@@ -1,0 +1,266 @@
+C:\Users\Reyad\Desktop\House_Utiliti_Services\House_Utiliti_Service\obj\Debug\House_Utiliti_Service.csproj.AssemblyReference.cache
+C:\Users\Reyad\Desktop\House_Utiliti_Services\House_Utiliti_Service\obj\Debug\House_Utiliti_Service.csproj.CoreCompileInputs.cache
+C:\Users\Reyad\Desktop\House_Utiliti_Services\House_Utiliti_Service\bin\House_Utiliti_Service.dll.config
+C:\Users\Reyad\Desktop\House_Utiliti_Services\House_Utiliti_Service\bin\House_Utiliti_Service.dll
+C:\Users\Reyad\Desktop\House_Utiliti_Services\House_Utiliti_Service\bin\House_Utiliti_Service.pdb
+C:\Users\Reyad\Desktop\House_Utiliti_Services\House_Utiliti_Service\bin\roslyn\csc.exe
+C:\Users\Reyad\Desktop\House_Utiliti_Services\House_Utiliti_Service\bin\roslyn\csc.exe.config
+C:\Users\Reyad\Desktop\House_Utiliti_Services\House_Utiliti_Service\bin\roslyn\csc.rsp
+C:\Users\Reyad\Desktop\House_Utiliti_Services\House_Utiliti_Service\bin\roslyn\csi.exe
+C:\Users\Reyad\Desktop\House_Utiliti_Services\House_Utiliti_Service\bin\roslyn\csi.exe.config
+C:\Users\Reyad\Desktop\House_Utiliti_Services\House_Utiliti_Service\bin\roslyn\csi.rsp
+C:\Users\Reyad\Desktop\House_Utiliti_Services\House_Utiliti_Service\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Reyad\Desktop\House_Utiliti_Services\House_Utiliti_Service\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Reyad\Desktop\House_Utiliti_Services\House_Utiliti_Service\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Reyad\Desktop\House_Utiliti_Services\House_Utiliti_Service\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Reyad\Desktop\House_Utiliti_Services\House_Utiliti_Service\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Reyad\Desktop\House_Utiliti_Services\House_Utiliti_Service\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Reyad\Desktop\House_Utiliti_Services\House_Utiliti_Service\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Reyad\Desktop\House_Utiliti_Services\House_Utiliti_Service\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Reyad\Desktop\House_Utiliti_Services\House_Utiliti_Service\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Reyad\Desktop\House_Utiliti_Services\House_Utiliti_Service\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Reyad\Desktop\House_Utiliti_Services\House_Utiliti_Service\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Reyad\Desktop\House_Utiliti_Services\House_Utiliti_Service\bin\roslyn\System.Buffers.dll
+C:\Users\Reyad\Desktop\House_Utiliti_Services\House_Utiliti_Service\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Reyad\Desktop\House_Utiliti_Services\House_Utiliti_Service\bin\roslyn\System.Memory.dll
+C:\Users\Reyad\Desktop\House_Utiliti_Services\House_Utiliti_Service\bin\roslyn\System.Numerics.Vectors.dll
+C:\Users\Reyad\Desktop\House_Utiliti_Services\House_Utiliti_Service\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Reyad\Desktop\House_Utiliti_Services\House_Utiliti_Service\bin\roslyn\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Reyad\Desktop\House_Utiliti_Services\House_Utiliti_Service\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Reyad\Desktop\House_Utiliti_Services\House_Utiliti_Service\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Reyad\Desktop\House_Utiliti_Services\House_Utiliti_Service\bin\roslyn\vbc.exe
+C:\Users\Reyad\Desktop\House_Utiliti_Services\House_Utiliti_Service\bin\roslyn\vbc.exe.config
+C:\Users\Reyad\Desktop\House_Utiliti_Services\House_Utiliti_Service\bin\roslyn\vbc.rsp
+C:\Users\Reyad\Desktop\House_Utiliti_Services\House_Utiliti_Service\bin\roslyn\VBCSCompiler.exe
+C:\Users\Reyad\Desktop\House_Utiliti_Services\House_Utiliti_Service\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Reyad\Desktop\House_Utiliti_Services\House_Utiliti_Service\bin\EntityFramework.dll
+C:\Users\Reyad\Desktop\House_Utiliti_Services\House_Utiliti_Service\bin\EntityFramework.SqlServer.dll
+C:\Users\Reyad\Desktop\House_Utiliti_Services\House_Utiliti_Service\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Reyad\Desktop\House_Utiliti_Services\House_Utiliti_Service\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Reyad\Desktop\House_Utiliti_Services\House_Utiliti_Service\bin\System.Web.Helpers.dll
+C:\Users\Reyad\Desktop\House_Utiliti_Services\House_Utiliti_Service\bin\System.Web.Mvc.dll
+C:\Users\Reyad\Desktop\House_Utiliti_Services\House_Utiliti_Service\bin\System.Web.Razor.dll
+C:\Users\Reyad\Desktop\House_Utiliti_Services\House_Utiliti_Service\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Reyad\Desktop\House_Utiliti_Services\House_Utiliti_Service\bin\System.Web.WebPages.dll
+C:\Users\Reyad\Desktop\House_Utiliti_Services\House_Utiliti_Service\bin\System.Web.WebPages.Razor.dll
+C:\Users\Reyad\Desktop\House_Utiliti_Services\House_Utiliti_Service\bin\EntityFramework.xml
+C:\Users\Reyad\Desktop\House_Utiliti_Services\House_Utiliti_Service\bin\EntityFramework.SqlServer.xml
+C:\Users\Reyad\Desktop\House_Utiliti_Services\House_Utiliti_Service\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Reyad\Desktop\House_Utiliti_Services\House_Utiliti_Service\bin\System.Web.Helpers.xml
+C:\Users\Reyad\Desktop\House_Utiliti_Services\House_Utiliti_Service\bin\System.Web.Mvc.xml
+C:\Users\Reyad\Desktop\House_Utiliti_Services\House_Utiliti_Service\bin\System.Web.Razor.xml
+C:\Users\Reyad\Desktop\House_Utiliti_Services\House_Utiliti_Service\bin\System.Web.WebPages.xml
+C:\Users\Reyad\Desktop\House_Utiliti_Services\House_Utiliti_Service\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Reyad\Desktop\House_Utiliti_Services\House_Utiliti_Service\bin\System.Web.WebPages.Razor.xml
+C:\Users\Reyad\Desktop\House_Utiliti_Services\House_Utiliti_Service\obj\Debug\House_Utiliti_Service.csproj.CopyComplete
+C:\Users\Reyad\Desktop\House_Utiliti_Services\House_Utiliti_Service\obj\Debug\House_Utiliti_Service.dll
+C:\Users\Reyad\Desktop\House_Utiliti_Services\House_Utiliti_Service\obj\Debug\House_Utiliti_Service.pdb
+G:\House_Utiliti_Services\House_Utiliti_Service\bin\House_Utiliti_Service.dll.config
+G:\House_Utiliti_Services\House_Utiliti_Service\bin\House_Utiliti_Service.dll
+G:\House_Utiliti_Services\House_Utiliti_Service\bin\House_Utiliti_Service.pdb
+G:\House_Utiliti_Services\House_Utiliti_Service\bin\roslyn\csc.exe
+G:\House_Utiliti_Services\House_Utiliti_Service\bin\roslyn\csc.exe.config
+G:\House_Utiliti_Services\House_Utiliti_Service\bin\roslyn\csc.rsp
+G:\House_Utiliti_Services\House_Utiliti_Service\bin\roslyn\csi.exe
+G:\House_Utiliti_Services\House_Utiliti_Service\bin\roslyn\csi.exe.config
+G:\House_Utiliti_Services\House_Utiliti_Service\bin\roslyn\csi.rsp
+G:\House_Utiliti_Services\House_Utiliti_Service\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+G:\House_Utiliti_Services\House_Utiliti_Service\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+G:\House_Utiliti_Services\House_Utiliti_Service\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+G:\House_Utiliti_Services\House_Utiliti_Service\bin\roslyn\Microsoft.CodeAnalysis.dll
+G:\House_Utiliti_Services\House_Utiliti_Service\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+G:\House_Utiliti_Services\House_Utiliti_Service\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+G:\House_Utiliti_Services\House_Utiliti_Service\bin\roslyn\Microsoft.CSharp.Core.targets
+G:\House_Utiliti_Services\House_Utiliti_Service\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+G:\House_Utiliti_Services\House_Utiliti_Service\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+G:\House_Utiliti_Services\House_Utiliti_Service\bin\roslyn\Microsoft.Managed.Core.targets
+G:\House_Utiliti_Services\House_Utiliti_Service\bin\roslyn\Microsoft.VisualBasic.Core.targets
+G:\House_Utiliti_Services\House_Utiliti_Service\bin\roslyn\System.Buffers.dll
+G:\House_Utiliti_Services\House_Utiliti_Service\bin\roslyn\System.Collections.Immutable.dll
+G:\House_Utiliti_Services\House_Utiliti_Service\bin\roslyn\System.Memory.dll
+G:\House_Utiliti_Services\House_Utiliti_Service\bin\roslyn\System.Numerics.Vectors.dll
+G:\House_Utiliti_Services\House_Utiliti_Service\bin\roslyn\System.Reflection.Metadata.dll
+G:\House_Utiliti_Services\House_Utiliti_Service\bin\roslyn\System.Runtime.CompilerServices.Unsafe.dll
+G:\House_Utiliti_Services\House_Utiliti_Service\bin\roslyn\System.Text.Encoding.CodePages.dll
+G:\House_Utiliti_Services\House_Utiliti_Service\bin\roslyn\System.Threading.Tasks.Extensions.dll
+G:\House_Utiliti_Services\House_Utiliti_Service\bin\roslyn\vbc.exe
+G:\House_Utiliti_Services\House_Utiliti_Service\bin\roslyn\vbc.exe.config
+G:\House_Utiliti_Services\House_Utiliti_Service\bin\roslyn\vbc.rsp
+G:\House_Utiliti_Services\House_Utiliti_Service\bin\roslyn\VBCSCompiler.exe
+G:\House_Utiliti_Services\House_Utiliti_Service\bin\roslyn\VBCSCompiler.exe.config
+G:\House_Utiliti_Services\House_Utiliti_Service\bin\EntityFramework.dll
+G:\House_Utiliti_Services\House_Utiliti_Service\bin\EntityFramework.SqlServer.dll
+G:\House_Utiliti_Services\House_Utiliti_Service\bin\Microsoft.AspNet.Identity.Core.dll
+G:\House_Utiliti_Services\House_Utiliti_Service\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+G:\House_Utiliti_Services\House_Utiliti_Service\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+G:\House_Utiliti_Services\House_Utiliti_Service\bin\Microsoft.Owin.dll
+G:\House_Utiliti_Services\House_Utiliti_Service\bin\Microsoft.Owin.Host.SystemWeb.dll
+G:\House_Utiliti_Services\House_Utiliti_Service\bin\Microsoft.Owin.Security.Cookies.dll
+G:\House_Utiliti_Services\House_Utiliti_Service\bin\Microsoft.Owin.Security.dll
+G:\House_Utiliti_Services\House_Utiliti_Service\bin\Microsoft.Web.Infrastructure.dll
+G:\House_Utiliti_Services\House_Utiliti_Service\bin\Owin.dll
+G:\House_Utiliti_Services\House_Utiliti_Service\bin\System.Web.Helpers.dll
+G:\House_Utiliti_Services\House_Utiliti_Service\bin\System.Web.Mvc.dll
+G:\House_Utiliti_Services\House_Utiliti_Service\bin\System.Web.Razor.dll
+G:\House_Utiliti_Services\House_Utiliti_Service\bin\System.Web.WebPages.Deployment.dll
+G:\House_Utiliti_Services\House_Utiliti_Service\bin\System.Web.WebPages.dll
+G:\House_Utiliti_Services\House_Utiliti_Service\bin\System.Web.WebPages.Razor.dll
+G:\House_Utiliti_Services\House_Utiliti_Service\bin\EntityFramework.xml
+G:\House_Utiliti_Services\House_Utiliti_Service\bin\EntityFramework.SqlServer.xml
+G:\House_Utiliti_Services\House_Utiliti_Service\bin\Microsoft.AspNet.Identity.Core.xml
+G:\House_Utiliti_Services\House_Utiliti_Service\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+G:\House_Utiliti_Services\House_Utiliti_Service\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+G:\House_Utiliti_Services\House_Utiliti_Service\bin\Microsoft.Owin.xml
+G:\House_Utiliti_Services\House_Utiliti_Service\bin\Microsoft.Owin.Host.SystemWeb.xml
+G:\House_Utiliti_Services\House_Utiliti_Service\bin\Microsoft.Owin.Security.xml
+G:\House_Utiliti_Services\House_Utiliti_Service\bin\Microsoft.Owin.Security.Cookies.xml
+G:\House_Utiliti_Services\House_Utiliti_Service\bin\System.Web.Helpers.xml
+G:\House_Utiliti_Services\House_Utiliti_Service\bin\System.Web.Mvc.xml
+G:\House_Utiliti_Services\House_Utiliti_Service\bin\System.Web.Razor.xml
+G:\House_Utiliti_Services\House_Utiliti_Service\bin\System.Web.WebPages.xml
+G:\House_Utiliti_Services\House_Utiliti_Service\bin\System.Web.WebPages.Deployment.xml
+G:\House_Utiliti_Services\House_Utiliti_Service\bin\System.Web.WebPages.Razor.xml
+G:\House_Utiliti_Services\House_Utiliti_Service\obj\Debug\House_Utiliti_Service.csproj.CoreCompileInputs.cache
+G:\House_Utiliti_Services\House_Utiliti_Service\obj\Debug\House_Utiliti_Service.csproj.CopyComplete
+G:\House_Utiliti_Services\House_Utiliti_Service\obj\Debug\House_Utiliti_Service.dll
+G:\House_Utiliti_Services\House_Utiliti_Service\obj\Debug\House_Utiliti_Service.pdb
+G:\C#_.Net\House_Utiliti_Services\House_Utiliti_Service\bin\House_Utiliti_Service.dll.config
+G:\C#_.Net\House_Utiliti_Services\House_Utiliti_Service\bin\House_Utiliti_Service.dll
+G:\C#_.Net\House_Utiliti_Services\House_Utiliti_Service\bin\House_Utiliti_Service.pdb
+G:\C#_.Net\House_Utiliti_Services\House_Utiliti_Service\bin\roslyn\csc.exe
+G:\C#_.Net\House_Utiliti_Services\House_Utiliti_Service\bin\roslyn\csc.exe.config
+G:\C#_.Net\House_Utiliti_Services\House_Utiliti_Service\bin\roslyn\csc.rsp
+G:\C#_.Net\House_Utiliti_Services\House_Utiliti_Service\bin\roslyn\csi.exe
+G:\C#_.Net\House_Utiliti_Services\House_Utiliti_Service\bin\roslyn\csi.exe.config
+G:\C#_.Net\House_Utiliti_Services\House_Utiliti_Service\bin\roslyn\csi.rsp
+G:\C#_.Net\House_Utiliti_Services\House_Utiliti_Service\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+G:\C#_.Net\House_Utiliti_Services\House_Utiliti_Service\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+G:\C#_.Net\House_Utiliti_Services\House_Utiliti_Service\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+G:\C#_.Net\House_Utiliti_Services\House_Utiliti_Service\bin\roslyn\Microsoft.CodeAnalysis.dll
+G:\C#_.Net\House_Utiliti_Services\House_Utiliti_Service\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+G:\C#_.Net\House_Utiliti_Services\House_Utiliti_Service\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+G:\C#_.Net\House_Utiliti_Services\House_Utiliti_Service\bin\roslyn\Microsoft.CSharp.Core.targets
+G:\C#_.Net\House_Utiliti_Services\House_Utiliti_Service\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+G:\C#_.Net\House_Utiliti_Services\House_Utiliti_Service\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+G:\C#_.Net\House_Utiliti_Services\House_Utiliti_Service\bin\roslyn\Microsoft.Managed.Core.targets
+G:\C#_.Net\House_Utiliti_Services\House_Utiliti_Service\bin\roslyn\Microsoft.VisualBasic.Core.targets
+G:\C#_.Net\House_Utiliti_Services\House_Utiliti_Service\bin\roslyn\System.Buffers.dll
+G:\C#_.Net\House_Utiliti_Services\House_Utiliti_Service\bin\roslyn\System.Collections.Immutable.dll
+G:\C#_.Net\House_Utiliti_Services\House_Utiliti_Service\bin\roslyn\System.Memory.dll
+G:\C#_.Net\House_Utiliti_Services\House_Utiliti_Service\bin\roslyn\System.Numerics.Vectors.dll
+G:\C#_.Net\House_Utiliti_Services\House_Utiliti_Service\bin\roslyn\System.Reflection.Metadata.dll
+G:\C#_.Net\House_Utiliti_Services\House_Utiliti_Service\bin\roslyn\System.Runtime.CompilerServices.Unsafe.dll
+G:\C#_.Net\House_Utiliti_Services\House_Utiliti_Service\bin\roslyn\System.Text.Encoding.CodePages.dll
+G:\C#_.Net\House_Utiliti_Services\House_Utiliti_Service\bin\roslyn\System.Threading.Tasks.Extensions.dll
+G:\C#_.Net\House_Utiliti_Services\House_Utiliti_Service\bin\roslyn\vbc.exe
+G:\C#_.Net\House_Utiliti_Services\House_Utiliti_Service\bin\roslyn\vbc.exe.config
+G:\C#_.Net\House_Utiliti_Services\House_Utiliti_Service\bin\roslyn\vbc.rsp
+G:\C#_.Net\House_Utiliti_Services\House_Utiliti_Service\bin\roslyn\VBCSCompiler.exe
+G:\C#_.Net\House_Utiliti_Services\House_Utiliti_Service\bin\roslyn\VBCSCompiler.exe.config
+G:\C#_.Net\House_Utiliti_Services\House_Utiliti_Service\bin\EntityFramework.dll
+G:\C#_.Net\House_Utiliti_Services\House_Utiliti_Service\bin\EntityFramework.SqlServer.dll
+G:\C#_.Net\House_Utiliti_Services\House_Utiliti_Service\bin\Microsoft.AspNet.Identity.Core.dll
+G:\C#_.Net\House_Utiliti_Services\House_Utiliti_Service\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+G:\C#_.Net\House_Utiliti_Services\House_Utiliti_Service\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+G:\C#_.Net\House_Utiliti_Services\House_Utiliti_Service\bin\Microsoft.Owin.dll
+G:\C#_.Net\House_Utiliti_Services\House_Utiliti_Service\bin\Microsoft.Owin.Host.SystemWeb.dll
+G:\C#_.Net\House_Utiliti_Services\House_Utiliti_Service\bin\Microsoft.Owin.Security.Cookies.dll
+G:\C#_.Net\House_Utiliti_Services\House_Utiliti_Service\bin\Microsoft.Owin.Security.dll
+G:\C#_.Net\House_Utiliti_Services\House_Utiliti_Service\bin\Microsoft.Web.Infrastructure.dll
+G:\C#_.Net\House_Utiliti_Services\House_Utiliti_Service\bin\Owin.dll
+G:\C#_.Net\House_Utiliti_Services\House_Utiliti_Service\bin\System.Web.Helpers.dll
+G:\C#_.Net\House_Utiliti_Services\House_Utiliti_Service\bin\System.Web.Mvc.dll
+G:\C#_.Net\House_Utiliti_Services\House_Utiliti_Service\bin\System.Web.Razor.dll
+G:\C#_.Net\House_Utiliti_Services\House_Utiliti_Service\bin\System.Web.WebPages.Deployment.dll
+G:\C#_.Net\House_Utiliti_Services\House_Utiliti_Service\bin\System.Web.WebPages.dll
+G:\C#_.Net\House_Utiliti_Services\House_Utiliti_Service\bin\System.Web.WebPages.Razor.dll
+G:\C#_.Net\House_Utiliti_Services\House_Utiliti_Service\bin\EntityFramework.xml
+G:\C#_.Net\House_Utiliti_Services\House_Utiliti_Service\bin\EntityFramework.SqlServer.xml
+G:\C#_.Net\House_Utiliti_Services\House_Utiliti_Service\bin\Microsoft.AspNet.Identity.Core.xml
+G:\C#_.Net\House_Utiliti_Services\House_Utiliti_Service\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+G:\C#_.Net\House_Utiliti_Services\House_Utiliti_Service\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+G:\C#_.Net\House_Utiliti_Services\House_Utiliti_Service\bin\Microsoft.Owin.xml
+G:\C#_.Net\House_Utiliti_Services\House_Utiliti_Service\bin\Microsoft.Owin.Host.SystemWeb.xml
+G:\C#_.Net\House_Utiliti_Services\House_Utiliti_Service\bin\Microsoft.Owin.Security.xml
+G:\C#_.Net\House_Utiliti_Services\House_Utiliti_Service\bin\Microsoft.Owin.Security.Cookies.xml
+G:\C#_.Net\House_Utiliti_Services\House_Utiliti_Service\bin\System.Web.Helpers.xml
+G:\C#_.Net\House_Utiliti_Services\House_Utiliti_Service\bin\System.Web.Mvc.xml
+G:\C#_.Net\House_Utiliti_Services\House_Utiliti_Service\bin\System.Web.Razor.xml
+G:\C#_.Net\House_Utiliti_Services\House_Utiliti_Service\bin\System.Web.WebPages.xml
+G:\C#_.Net\House_Utiliti_Services\House_Utiliti_Service\bin\System.Web.WebPages.Deployment.xml
+G:\C#_.Net\House_Utiliti_Services\House_Utiliti_Service\bin\System.Web.WebPages.Razor.xml
+G:\C#_.Net\House_Utiliti_Services\House_Utiliti_Service\obj\Debug\House_Utiliti_Service.csproj.AssemblyReference.cache
+G:\C#_.Net\House_Utiliti_Services\House_Utiliti_Service\obj\Debug\House_Utiliti_Service.csproj.CoreCompileInputs.cache
+G:\C#_.Net\House_Utiliti_Services\House_Utiliti_Service\obj\Debug\House_Utiliti_Service.csproj.CopyComplete
+G:\C#_.Net\House_Utiliti_Services\House_Utiliti_Service\obj\Debug\House_Utiliti_Service.dll
+G:\C#_.Net\House_Utiliti_Services\House_Utiliti_Service\obj\Debug\House_Utiliti_Service.pdb
+G:\Project List\Atiqur Rahman\ASP .NET MVC\Project_MVC-main\House_Utiliti_Service\bin\House_Utiliti_Service.dll.config
+G:\Project List\Atiqur Rahman\ASP .NET MVC\Project_MVC-main\House_Utiliti_Service\bin\House_Utiliti_Service.dll
+G:\Project List\Atiqur Rahman\ASP .NET MVC\Project_MVC-main\House_Utiliti_Service\bin\House_Utiliti_Service.pdb
+G:\Project List\Atiqur Rahman\ASP .NET MVC\Project_MVC-main\House_Utiliti_Service\bin\roslyn\csc.exe
+G:\Project List\Atiqur Rahman\ASP .NET MVC\Project_MVC-main\House_Utiliti_Service\bin\roslyn\csc.exe.config
+G:\Project List\Atiqur Rahman\ASP .NET MVC\Project_MVC-main\House_Utiliti_Service\bin\roslyn\csc.rsp
+G:\Project List\Atiqur Rahman\ASP .NET MVC\Project_MVC-main\House_Utiliti_Service\bin\roslyn\csi.exe
+G:\Project List\Atiqur Rahman\ASP .NET MVC\Project_MVC-main\House_Utiliti_Service\bin\roslyn\csi.exe.config
+G:\Project List\Atiqur Rahman\ASP .NET MVC\Project_MVC-main\House_Utiliti_Service\bin\roslyn\csi.rsp
+G:\Project List\Atiqur Rahman\ASP .NET MVC\Project_MVC-main\House_Utiliti_Service\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+G:\Project List\Atiqur Rahman\ASP .NET MVC\Project_MVC-main\House_Utiliti_Service\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+G:\Project List\Atiqur Rahman\ASP .NET MVC\Project_MVC-main\House_Utiliti_Service\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+G:\Project List\Atiqur Rahman\ASP .NET MVC\Project_MVC-main\House_Utiliti_Service\bin\roslyn\Microsoft.CodeAnalysis.dll
+G:\Project List\Atiqur Rahman\ASP .NET MVC\Project_MVC-main\House_Utiliti_Service\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+G:\Project List\Atiqur Rahman\ASP .NET MVC\Project_MVC-main\House_Utiliti_Service\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+G:\Project List\Atiqur Rahman\ASP .NET MVC\Project_MVC-main\House_Utiliti_Service\bin\roslyn\Microsoft.CSharp.Core.targets
+G:\Project List\Atiqur Rahman\ASP .NET MVC\Project_MVC-main\House_Utiliti_Service\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+G:\Project List\Atiqur Rahman\ASP .NET MVC\Project_MVC-main\House_Utiliti_Service\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+G:\Project List\Atiqur Rahman\ASP .NET MVC\Project_MVC-main\House_Utiliti_Service\bin\roslyn\Microsoft.Managed.Core.targets
+G:\Project List\Atiqur Rahman\ASP .NET MVC\Project_MVC-main\House_Utiliti_Service\bin\roslyn\Microsoft.VisualBasic.Core.targets
+G:\Project List\Atiqur Rahman\ASP .NET MVC\Project_MVC-main\House_Utiliti_Service\bin\roslyn\System.Buffers.dll
+G:\Project List\Atiqur Rahman\ASP .NET MVC\Project_MVC-main\House_Utiliti_Service\bin\roslyn\System.Collections.Immutable.dll
+G:\Project List\Atiqur Rahman\ASP .NET MVC\Project_MVC-main\House_Utiliti_Service\bin\roslyn\System.Memory.dll
+G:\Project List\Atiqur Rahman\ASP .NET MVC\Project_MVC-main\House_Utiliti_Service\bin\roslyn\System.Numerics.Vectors.dll
+G:\Project List\Atiqur Rahman\ASP .NET MVC\Project_MVC-main\House_Utiliti_Service\bin\roslyn\System.Reflection.Metadata.dll
+G:\Project List\Atiqur Rahman\ASP .NET MVC\Project_MVC-main\House_Utiliti_Service\bin\roslyn\System.Runtime.CompilerServices.Unsafe.dll
+G:\Project List\Atiqur Rahman\ASP .NET MVC\Project_MVC-main\House_Utiliti_Service\bin\roslyn\System.Text.Encoding.CodePages.dll
+G:\Project List\Atiqur Rahman\ASP .NET MVC\Project_MVC-main\House_Utiliti_Service\bin\roslyn\System.Threading.Tasks.Extensions.dll
+G:\Project List\Atiqur Rahman\ASP .NET MVC\Project_MVC-main\House_Utiliti_Service\bin\roslyn\vbc.exe
+G:\Project List\Atiqur Rahman\ASP .NET MVC\Project_MVC-main\House_Utiliti_Service\bin\roslyn\vbc.exe.config
+G:\Project List\Atiqur Rahman\ASP .NET MVC\Project_MVC-main\House_Utiliti_Service\bin\roslyn\vbc.rsp
+G:\Project List\Atiqur Rahman\ASP .NET MVC\Project_MVC-main\House_Utiliti_Service\bin\roslyn\VBCSCompiler.exe
+G:\Project List\Atiqur Rahman\ASP .NET MVC\Project_MVC-main\House_Utiliti_Service\bin\roslyn\VBCSCompiler.exe.config
+G:\Project List\Atiqur Rahman\ASP .NET MVC\Project_MVC-main\House_Utiliti_Service\bin\EntityFramework.dll
+G:\Project List\Atiqur Rahman\ASP .NET MVC\Project_MVC-main\House_Utiliti_Service\bin\EntityFramework.SqlServer.dll
+G:\Project List\Atiqur Rahman\ASP .NET MVC\Project_MVC-main\House_Utiliti_Service\bin\Microsoft.AspNet.Identity.Core.dll
+G:\Project List\Atiqur Rahman\ASP .NET MVC\Project_MVC-main\House_Utiliti_Service\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+G:\Project List\Atiqur Rahman\ASP .NET MVC\Project_MVC-main\House_Utiliti_Service\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+G:\Project List\Atiqur Rahman\ASP .NET MVC\Project_MVC-main\House_Utiliti_Service\bin\Microsoft.Owin.dll
+G:\Project List\Atiqur Rahman\ASP .NET MVC\Project_MVC-main\House_Utiliti_Service\bin\Microsoft.Owin.Host.SystemWeb.dll
+G:\Project List\Atiqur Rahman\ASP .NET MVC\Project_MVC-main\House_Utiliti_Service\bin\Microsoft.Owin.Security.Cookies.dll
+G:\Project List\Atiqur Rahman\ASP .NET MVC\Project_MVC-main\House_Utiliti_Service\bin\Microsoft.Owin.Security.dll
+G:\Project List\Atiqur Rahman\ASP .NET MVC\Project_MVC-main\House_Utiliti_Service\bin\Microsoft.Web.Infrastructure.dll
+G:\Project List\Atiqur Rahman\ASP .NET MVC\Project_MVC-main\House_Utiliti_Service\bin\Owin.dll
+G:\Project List\Atiqur Rahman\ASP .NET MVC\Project_MVC-main\House_Utiliti_Service\bin\System.Web.Helpers.dll
+G:\Project List\Atiqur Rahman\ASP .NET MVC\Project_MVC-main\House_Utiliti_Service\bin\System.Web.Mvc.dll
+G:\Project List\Atiqur Rahman\ASP .NET MVC\Project_MVC-main\House_Utiliti_Service\bin\System.Web.Razor.dll
+G:\Project List\Atiqur Rahman\ASP .NET MVC\Project_MVC-main\House_Utiliti_Service\bin\System.Web.WebPages.Deployment.dll
+G:\Project List\Atiqur Rahman\ASP .NET MVC\Project_MVC-main\House_Utiliti_Service\bin\System.Web.WebPages.dll
+G:\Project List\Atiqur Rahman\ASP .NET MVC\Project_MVC-main\House_Utiliti_Service\bin\System.Web.WebPages.Razor.dll
+G:\Project List\Atiqur Rahman\ASP .NET MVC\Project_MVC-main\House_Utiliti_Service\bin\EntityFramework.xml
+G:\Project List\Atiqur Rahman\ASP .NET MVC\Project_MVC-main\House_Utiliti_Service\bin\EntityFramework.SqlServer.xml
+G:\Project List\Atiqur Rahman\ASP .NET MVC\Project_MVC-main\House_Utiliti_Service\bin\Microsoft.AspNet.Identity.Core.xml
+G:\Project List\Atiqur Rahman\ASP .NET MVC\Project_MVC-main\House_Utiliti_Service\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+G:\Project List\Atiqur Rahman\ASP .NET MVC\Project_MVC-main\House_Utiliti_Service\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+G:\Project List\Atiqur Rahman\ASP .NET MVC\Project_MVC-main\House_Utiliti_Service\bin\Microsoft.Owin.xml
+G:\Project List\Atiqur Rahman\ASP .NET MVC\Project_MVC-main\House_Utiliti_Service\bin\Microsoft.Owin.Host.SystemWeb.xml
+G:\Project List\Atiqur Rahman\ASP .NET MVC\Project_MVC-main\House_Utiliti_Service\bin\Microsoft.Owin.Security.xml
+G:\Project List\Atiqur Rahman\ASP .NET MVC\Project_MVC-main\House_Utiliti_Service\bin\Microsoft.Owin.Security.Cookies.xml
+G:\Project List\Atiqur Rahman\ASP .NET MVC\Project_MVC-main\House_Utiliti_Service\bin\System.Web.Helpers.xml
+G:\Project List\Atiqur Rahman\ASP .NET MVC\Project_MVC-main\House_Utiliti_Service\bin\System.Web.Mvc.xml
+G:\Project List\Atiqur Rahman\ASP .NET MVC\Project_MVC-main\House_Utiliti_Service\bin\System.Web.Razor.xml
+G:\Project List\Atiqur Rahman\ASP .NET MVC\Project_MVC-main\House_Utiliti_Service\bin\System.Web.WebPages.xml
+G:\Project List\Atiqur Rahman\ASP .NET MVC\Project_MVC-main\House_Utiliti_Service\bin\System.Web.WebPages.Deployment.xml
+G:\Project List\Atiqur Rahman\ASP .NET MVC\Project_MVC-main\House_Utiliti_Service\bin\System.Web.WebPages.Razor.xml
+G:\Project List\Atiqur Rahman\ASP .NET MVC\Project_MVC-main\House_Utiliti_Service\obj\Debug\House_Utiliti_Service.csproj.AssemblyReference.cache
+G:\Project List\Atiqur Rahman\ASP .NET MVC\Project_MVC-main\House_Utiliti_Service\obj\Debug\House_Utiliti_Service.csproj.CoreCompileInputs.cache
+G:\Project List\Atiqur Rahman\ASP .NET MVC\Project_MVC-main\House_Utiliti_Service\obj\Debug\House_Utiliti_Service.csproj.CopyComplete
+G:\Project List\Atiqur Rahman\ASP .NET MVC\Project_MVC-main\House_Utiliti_Service\obj\Debug\House_Utiliti_Service.dll
+G:\Project List\Atiqur Rahman\ASP .NET MVC\Project_MVC-main\House_Utiliti_Service\obj\Debug\House_Utiliti_Service.pdb

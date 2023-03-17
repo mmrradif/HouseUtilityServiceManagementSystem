@@ -1,0 +1,63 @@
+﻿@model IEnumerable<House_Utiliti_Service.Models.WorkArea>
+@{
+    ViewBag.Title = "Index";
+}
+<div class="row">
+    <div class="col-12">
+        <h3>Test Records</h3>
+        <div class="d-flex justify-content-end mb-1">
+            @Html.ActionLink("Create New", "Create", new { }, new { @class = "btn btn-primary btn-sm" })
+        </div>
+        <table class="table table-bordered">
+            <thead class=" bg-secondary">
+                <tr>
+                    <th>@Html.DisplayNameFor(t => t.WorkAreaName)</th>
+                    <th>@Html.DisplayNameFor(t => t.Skill)</th>
+                    <th></th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var x in Model)
+                {
+                    <tr>
+                        <td>@Html.DisplayFor(t => x.WorkAreaName)</td>
+                        <td>@Html.DisplayFor(t => x.Skill)</td>
+                        <td></td>
+                    </tr>
+                    <tr>
+                        <td class="border-end-0">&nbsp;</td>
+                        <td colspan="6" class="border-start-0">
+                            <h4>Test</h4>
+                            <table class="table table-bordered">
+                                <thead class=" bg-secondary">
+                                    <tr>
+                                        <th>Worker Name</th>
+                                        <th>Phone</th>
+                                        <th>Payrate</th>
+                                        <th>IsRunning</th>
+                                    </tr>
+                                </thead>
+                                @foreach (var y in x.workerAreas)
+                                {
+                                    <tr>
+                                        <td>@y.Worker.WorkerName</td>
+                                        <td>@y.Worker.Phone</td>
+                                        <td>@y.Worker.Payrate</td>
+                                        <td>@y.Worker.IsRunning</td>
+                                    </tr>
+                                }
+                                @*<tr>
+                                    <td colspan="2" class="text-end pe-2">
+                                        Total: @x.workerAreas.Sum(t => t.Worker.WorkerName,)
+                                    </td>
+                                </tr>*@
+                            </table>
+                        </td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    </div>
+</div>
+
+

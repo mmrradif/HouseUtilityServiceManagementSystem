@@ -1,0 +1,64 @@
+﻿@model House_Utiliti_Service.Models.Work
+@{
+    ViewBag.Title = "Delete";
+}
+
+<div class="row">
+    <div class="col-12">
+        <h3>Are you sure to delete?</h3>
+
+        @Html.HiddenFor(x => x.WorkId)
+        <div class="form-group row mb-1">
+            @Html.LabelFor(x => x.WorkArea, new { @class = "col-form-label col-form-label-sm col-2" })
+            <div class="col-4">
+                @Html.DisplayFor(x => x.WorkArea.WorkAreaName)
+            </div>
+        </div>
+        <div class="form-group row mb-1">
+            @Html.LabelFor(x => x.CustomerName, new { @class = "col-form-label col-form-label-sm col-2" })
+            <div class="col-4">
+                @Html.DisplayFor(x => x.CustomerName)
+
+            </div>
+        </div>
+        <div class="form-group row mb-1">
+            @Html.LabelFor(x => x.CustomerAddress, new { @class = "col-form-label col-form-label-sm col-2" })
+            <div class="col-4">
+                @Html.DisplayFor(x => x.CustomerAddress)
+            </div>
+        </div>
+        <div class="form-group row mb-1">
+            @Html.LabelFor(x => x.WorkDescription, new { @class = "col-form-label col-form-label-sm col-2" })
+            <div class="col-4">
+                @Html.DisplayFor(x => x.WorkDescription)
+            </div>
+        </div>
+        <div class="form-group row mb-1">
+            @Html.LabelFor(x => x.StartDate, new { @class = "col-form-label col-form-label-sm col-2" })
+            <div class="col-4">
+                @Html.DisplayFor(x => x.StartDate)
+            </div>
+        </div>
+        <div class="form-group row mb-1">
+            @Html.LabelFor(x => x.EndDate, new { @class = "col-form-label col-form-label-sm col-2" })
+            <div class="col-4">
+                @Html.DisplayFor(x => x.EndDate)
+            </div>
+        </div>
+
+        @using (Html.BeginForm("Delete", "Works", new { id = Model.WorkId }, FormMethod.Post))
+        {
+
+            <div class="col-4 offset-2">
+                <button type="submit" class="btn btn-danger">Confirm Delete</button>
+
+            </div>
+        }
+        <div class="col-12">
+
+            @Html.ActionLink("Back to list", "Index")
+        </div>
+    </div>
+</div>
+
+

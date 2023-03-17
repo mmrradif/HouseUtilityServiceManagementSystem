@@ -1,0 +1,50 @@
+﻿@model IEnumerable<House_Utiliti_Service.Models.Work>
+@{
+    ViewBag.Title = "Index";
+}
+
+<div class="row">
+    <div class="col-12">
+        <h3>Products</h3>
+        <div class="d-flex justify-content-end mb-1">
+            @Html.ActionLink("Add New", "Create", "Works", new { }, new { @class = "btn btn-primary btn-sm" })
+        </div>
+        <table class="table table-bordered">
+            <thead class="bg-secondary">
+                <tr>
+                   
+                    <th>@Html.DisplayNameFor(x => x.WorkArea.WorkAreaName)</th>
+                    <th>@Html.DisplayNameFor(x => x.CustomerName)</th>
+
+                    <th>@Html.DisplayNameFor(x => x.CustomerAddress)</th>
+                    <th>@Html.DisplayNameFor(x => x.WorkDescription)</th>
+                    <th>@Html.DisplayNameFor(x => x.StartDate)</th>
+                    <th>@Html.DisplayNameFor(x => x.EndDate)</th>
+                    <th></th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var b in Model)
+                {
+                    <tr>
+
+                        <td>@Html.DisplayFor(x => b.WorkArea.WorkAreaName)</td>
+                        <td>@Html.DisplayFor(x => b.CustomerName)</td>
+                        <td>@Html.DisplayFor(x => b.CustomerAddress)</td>
+                        <td>@Html.DisplayFor(x => b.WorkDescription)</td>
+                        <td>@Html.DisplayFor(x => b.StartDate)</td>
+                        <td>@Html.DisplayFor(x => b.EndDate)</td>
+                        <td>
+                            @Html.ActionLink("Edit", "Edit", "Works", new { id = b.WorkId }, new { @class = "btn btn-secondary btn-sm" })
+                            <a href="@Url.Action("Delete", "Works", new {id=b.WorkId})" class="btn btn-danger btn-sm">Delete</a>
+                        </td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    </div>
+</div>
+
+
+
+
